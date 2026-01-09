@@ -29,6 +29,15 @@ header p {
     color: #666;
 }
 
+header .maintainer {
+    font-size: 0.875rem;
+    margin-top: 0.5rem;
+}
+
+header .maintainer a {
+    color: #0066cc;
+}
+
 h2 {
     font-size: 1.25rem;
     font-weight: 600;
