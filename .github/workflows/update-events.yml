@@ -1,0 +1,53 @@
+name: Update Events
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC (1 AM EST)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r scrapers/requirements.txt
+
+      - name: Run scrapers
+        run: |
+          python scrapers/mit_toc.py || echo "MIT scraper failed"
+          python scrapers/northeastern.py || echo "Northeastern scraper failed"
+          python scrapers/harvard.py || echo "Harvard scraper failed"
+          python scrapers/bu.py || echo "BU scraper failed"
+          python scrapers/crypto_day.py || echo "Crypto Day scraper failed"
+
+      - name: Combine events
+        run: python scrapers/combine.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet events.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add events.json scrapers/scraped/*.json
+          git commit -m "Auto-update events $(date +'%Y-%m-%d')"
+          git push

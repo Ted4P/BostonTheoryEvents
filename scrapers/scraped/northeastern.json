@@ -1,0 +1,128 @@
+[
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-04-30",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Hung Le",
+    "title": "Designing Graph Algorithms with VC Dimension"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-04-23",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Hsin-Hao Su",
+    "title": "Deterministic Expander Routing: Faster and More Versatile"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-04-16",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Gerdus Benade",
+    "title": "Fair and efficient online allocations"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-04-09",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Jamie Tucker-Foltz",
+    "title": "Sampling tree-weighted balanced graph partitions in polynomial time"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-04-02",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Tomer Ezra",
+    "title": "Algorithmic Contract Design"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-03-26",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Sofya Raskhodnikova",
+    "title": "Privately evaluating untrusted black-box functions"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-03-19",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Gabriele Farina",
+    "title": "Towards optimal rates for multiagent learning"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-03-12",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Ronitt Rubinfeld",
+    "title": "Properly learning monotone functions via local correction"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-02-26",
+    "time": "12:00",
+    "location": "Northeastern West Village H 166/168",
+    "speaker": "Tegan Wilson",
+    "title": "Probabilistic Tail Bounds From \"Breaking the VLB Barrier for Oblivious Reconfigurable Networks\""
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-02-19",
+    "time": "12:00",
+    "location": "Northeastern West Village H 166/168",
+    "speaker": "Aaron (Louie) Putterman",
+    "title": "Correlation Clustering and (De)Sparsification: Graph Sketches Can Match Classical Algorithms"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-02-12",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Alessio Mazzetto",
+    "title": "Learning with Drifting Input Distributions"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-01-29",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Omer Wasim",
+    "title": "Fully Dynamic (\u00ce\u0094+1) Coloring Against Adaptive Adversaries"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-01-22",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Lorenzo Beretta",
+    "title": "Subquadratic Algorithms for Earth Mover's Distance"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-01-15",
+    "time": "12:00",
+    "location": "Northeastern East Village 024",
+    "speaker": "Noah Golowich",
+    "title": "Edit Distance Robust Watermarks: Beyond Substitution Channels"
+  }
+]

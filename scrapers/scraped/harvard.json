@@ -1,0 +1,161 @@
+[
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-09-13",
+    "time": "15:45",
+    "location": "Harvard Winokur Family Hall 1.321",
+    "title": "The Value of Errors in Proofs",
+    "affiliation": "Institute for Advanced Study, Princeton University",
+    "speaker": "Avi Wigderson"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-09-18",
+    "time": "15:45",
+    "location": "Harvard SEC 2.122 + 2.123",
+    "title": "Postdocs Day",
+    "speaker": "Lunjia Hu, Han Shao, Avi Karchmer, Nikhil Vyas"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-09-25",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Minimum Isolating Cuts: A new tool for solving minimum cut problems",
+    "affiliation": "Carnegie Mellon University",
+    "speaker": "Jason Li"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-10-09",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Sparse spectral and coboundary high dimensional expanders",
+    "affiliation": "DIMACS/IAS",
+    "speaker": "Siqi Liu"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-10-17",
+    "time": "16:30",
+    "location": "Harvard SEC LL2.224",
+    "title": "Why Women Won",
+    "speaker": "Claudia Goldin"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-10-23",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Mean-field Langevin dynamics and two-layer neural networks",
+    "speaker": "Sinho Chewi"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-11-06",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Posterior Sampling with Denoising Oracles via Tilted Transport",
+    "speaker": "Joan Bruna Estrach"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-11-20",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Large Scale Private Learning on Data Streams, and the BLTs",
+    "affiliation": "Google DeepMind",
+    "speaker": "Abhradeep Thakurta"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-12-04",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Dedekind's Problem and beyond",
+    "affiliation": "NYU",
+    "speaker": "Jinyoung Park"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-12-11",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Proof Complexity: From Roots to Forest",
+    "affiliation": "Columbia University",
+    "speaker": "Toniann Pitassi"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-01-24",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Postdocs Day",
+    "speaker": "Vikrant Singhal, Tomer Ezra, Eran Malach"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-02-07",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Efficiently Finding Planted Cliques in Semirandom Graphs",
+    "speaker": "Pravesh Kothari"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-02-21",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Agnostic Proper Learning of Monotone Functions: Beyond the Black-Box Correction Barrier",
+    "speaker": "Jane Lange"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-03-06",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "New Frontiers in Structure vs Randomness with Applications to Combinatorics, Complexity, Algorithms",
+    "speaker": "Raghu Meka"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-04-03",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Classical Commitments to Quantum States and Application to Succinct Verification of QMA",
+    "speaker": "Yael Tauman Kalai"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-04-17",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Parallel Derandomization for Chernoff-like Concentrations",
+    "speaker": "Mohsen Ghaffari"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-04-24",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "TBD",
+    "speaker": "Sanjeev Khanna"
+  }
+]

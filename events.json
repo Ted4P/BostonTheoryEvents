@@ -1,0 +1,855 @@
+[
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-01-24",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Postdocs Day",
+    "speaker": "Vikrant Singhal, Tomer Ezra, Eran Malach"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-02-05",
+    "time": "13:30",
+    "title": "Hardness Condensation by Restriction",
+    "speaker": "Artur Riazanov, EPFL",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-02-07",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Efficiently Finding Planted Cliques in Semirandom Graphs",
+    "speaker": "Pravesh Kothari"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-02-12",
+    "time": "13:30",
+    "title": "Theory Lunch",
+    "speaker": "",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-02-21",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Agnostic Proper Learning of Monotone Functions: Beyond the Black-Box Correction Barrier",
+    "speaker": "Jane Lange"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-02-21",
+    "time": "13:30",
+    "title": "Learning from Nisan's Natural Proofs",
+    "speaker": "Ari Karchmer, Boston University",
+    "location": "BU CDS 1646"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-02-28",
+    "time": "13:00",
+    "title": "Learning With Data That \u2018Behaves\u2019 (Nir Rosenfeld, Technion)",
+    "speaker": "Strategic Classification",
+    "location": "BU CDS 801"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-03-04",
+    "time": "13:30",
+    "title": "Node-Private Graph Statistics under Continual Observation",
+    "speaker": "Connor Wagaman, Boston University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-03-06",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "New Frontiers in Structure vs Randomness with Applications to Combinatorics, Complexity, Algorithms",
+    "speaker": "Raghu Meka"
+  },
+  {
+    "title": "Charles River Crypto Day",
+    "date": "2024-03-08",
+    "time": "09:30",
+    "location": "NEU",
+    "series": "Charles River Crypto Day",
+    "series_url": "https://bostoncryptoday.wordpress.com/",
+    "url": "https://bostoncryptoday.wordpress.com/2024/02/22/friday-oct-8-neu/",
+    "speaker": "Rahul Ilango, Marshall Ball"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-03-18",
+    "time": "12:15",
+    "title": "Exponential Quantum Space Advantage for Approximating Maximum Directed Cut in the Streaming Model",
+    "speaker": "Nadya Voronova, Boston University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-04-01",
+    "time": "12:30",
+    "title": "Theory Lunch",
+    "speaker": "no talk today",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-04-03",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Classical Commitments to Quantum States and Application to Succinct Verification of QMA",
+    "speaker": "Yael Tauman Kalai"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-04-08",
+    "time": "12:30",
+    "title": "Synergy between Circuit Obfuscation and Circuit Minimization",
+    "speaker": "Ilya Volkovich, Boston College",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-04-17",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Parallel Derandomization for Chernoff-like Concentrations",
+    "speaker": "Mohsen Ghaffari"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-04-22",
+    "time": "12:30",
+    "title": "On the Power of Adaptivity for Function Inversion",
+    "speaker": "Samuel King, Georgetown University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-04-24",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "TBD",
+    "speaker": "Sanjeev Khanna"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-04-29",
+    "time": "12:30",
+    "title": "On Optimal XOR-circuits - Their One True Shape",
+    "speaker": "Nathan Dang, Boston University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-05-06",
+    "time": "12:30",
+    "title": "Testing Linearity and Other Properties with Online Adversaries",
+    "speaker": "Esty Kelman, MIT+BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-09-09",
+    "time": "11:30",
+    "title": "A Better-Than-1.6-Approximation for Prize-Collecting TSP",
+    "speaker": "Nathan Klein, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-09-13",
+    "time": "15:45",
+    "location": "Harvard Winokur Family Hall 1.321",
+    "title": "The Value of Errors in Proofs",
+    "affiliation": "Institute for Advanced Study, Princeton University",
+    "speaker": "Avi Wigderson"
+  },
+  {
+    "title": "Charles River Crypto Day",
+    "date": "2024-09-13",
+    "time": "09:30",
+    "location": "MIT",
+    "series": "Charles River Crypto Day",
+    "series_url": "https://bostoncryptoday.wordpress.com/",
+    "url": "https://bostoncryptoday.wordpress.com/2024/08/29/friday-sep-13-mit/",
+    "speaker": "David Wu, Ran Canetti"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-09-16",
+    "time": "11:30",
+    "title": "A Dynamical Approach (Renato Ferreira Pinto Jr., University of Waterloo)",
+    "speaker": "Directed Isoperimetry and Monotonicity Testing",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-09-18",
+    "time": "15:45",
+    "location": "Harvard SEC 2.122 + 2.123",
+    "title": "Postdocs Day",
+    "speaker": "Lunjia Hu, Han Shao, Avi Karchmer, Nikhil Vyas"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-09-23",
+    "time": "11:30",
+    "title": "Sparse Graph Counting and Kelley--Meka Bounds for Binary Systems",
+    "speaker": "Esty Kelman, MIT+BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-09-25",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Minimum Isolating Cuts: A new tool for solving minimum cut problems",
+    "affiliation": "Carnegie Mellon University",
+    "speaker": "Jason Li"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-09-30",
+    "time": "11:30",
+    "title": "Privately Evaluating Untrusted Black-Box Functions",
+    "speaker": "Ephraim Linder, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-10-07",
+    "time": "11:30",
+    "title": "Finding Circuits for Simple XOR Extensions in Polynomial Time",
+    "speaker": "Tim Jackman, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-10-09",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Sparse spectral and coboundary high dimensional expanders",
+    "affiliation": "DIMACS/IAS",
+    "speaker": "Siqi Liu"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-10-17",
+    "time": "16:30",
+    "location": "Harvard SEC LL2.224",
+    "title": "Why Women Won",
+    "speaker": "Claudia Goldin"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-10-21",
+    "time": "11:30",
+    "title": "The Power of Graph Sparsification in the Continual Release Model",
+    "speaker": "Quanquan Liu, Yale",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-10-23",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Mean-field Langevin dynamics and two-layer neural networks",
+    "speaker": "Sinho Chewi"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-10-28",
+    "time": "11:30",
+    "title": "Optimal Stopping with Interdependent Values",
+    "speaker": "Divyarthi Mohan, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-11-04",
+    "time": "12:30",
+    "title": "Finding missing items requires strong forms of randomness",
+    "speaker": "Amit Chakrabarti, Dartmouth",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-11-06",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Posterior Sampling with Denoising Oracles via Tilted Transport",
+    "speaker": "Joan Bruna Estrach"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-11-11",
+    "time": "12:30",
+    "title": "Why Are You Like This? (Mark Bun, Boston University)",
+    "speaker": "Private PAC Learning",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-11-18",
+    "time": "12:30",
+    "title": "Vizing\u2019s Theorem in Near-Linear Time",
+    "speaker": "Soheil Behnezhad, Northeastern University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-11-20",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Large Scale Private Learning on Data Streams, and the BLTs",
+    "affiliation": "Google DeepMind",
+    "speaker": "Abhradeep Thakurta"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-11-25",
+    "time": "12:30",
+    "title": "Proofs of Space with Maximal Hardness",
+    "speaker": "Leonid Reyzin, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-12-02",
+    "time": "12:30",
+    "title": "Sparse Polynomial Interpolation with Softly Optimal Bit Complexity",
+    "speaker": "Dan Roche, US Naval Academy",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-12-04",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Dedekind's Problem and beyond",
+    "affiliation": "NYU",
+    "speaker": "Jinyoung Park"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-12-09",
+    "time": "12:30",
+    "title": "The Learning Stabilizers with Noise problem",
+    "speaker": "Alexander Poremba, MIT",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-12-11",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Proof Complexity: From Roots to Forest",
+    "affiliation": "Columbia University",
+    "speaker": "Toniann Pitassi"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-01-15",
+    "time": "12:00",
+    "location": "Northeastern East Village 024",
+    "speaker": "Noah Golowich",
+    "title": "Edit Distance Robust Watermarks: Beyond Substitution Channels"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-01-22",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Lorenzo Beretta",
+    "title": "Subquadratic Algorithms for Earth Mover's Distance"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-01-22",
+    "time": "12:30",
+    "title": "Dynamic Consistent \ud835\udc58-Center Clustering with Optimal Recourse: Antonis Skarlatos",
+    "speaker": "University of Salzburg",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-01-29",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Omer Wasim",
+    "title": "Fully Dynamic (\u00ce\u0094+1) Coloring Against Adaptive Adversaries"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-02-03",
+    "time": "12:30",
+    "title": "Gaussian Polytope Approximation",
+    "speaker": "Shivam Nadimpalli, MIT",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-02-12",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Alessio Mazzetto",
+    "title": "Learning with Drifting Input Distributions"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-02-19",
+    "time": "12:00",
+    "location": "Northeastern West Village H 166/168",
+    "speaker": "Aaron (Louie) Putterman",
+    "title": "Correlation Clustering and (De)Sparsification: Graph Sketches Can Match Classical Algorithms"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-02-24",
+    "time": "12:30",
+    "title": "Recent Advances in Exact and Approximate Linear Programming (Zhuan Khye (Cedric) Koh, BU)",
+    "speaker": "",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-02-26",
+    "time": "12:00",
+    "location": "Northeastern West Village H 166/168",
+    "speaker": "Tegan Wilson",
+    "title": "Probabilistic Tail Bounds From \"Breaking the VLB Barrier for Oblivious Reconfigurable Networks\""
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-03-03",
+    "time": "12:30",
+    "title": "Adaptivity and Monotonicity (Nithin Varma, University of Cologne)",
+    "speaker": "Forbidden Order Patterns in Real-Valued Functions",
+    "location": "BU CAS B06A"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-03-12",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Ronitt Rubinfeld",
+    "title": "Properly learning monotone functions via local correction"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-03-19",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Gabriele Farina",
+    "title": "Towards optimal rates for multiagent learning"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-03-24",
+    "time": "11:30",
+    "title": "Weak Poincar\u00e9\u00a0Inequalities and Mixing from Non-Worst-Case Initializations",
+    "speaker": "Amit Rajaraman, MIT",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-03-26",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Sofya Raskhodnikova",
+    "title": "Privately evaluating untrusted black-box functions"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-03-31",
+    "time": "11:30",
+    "title": "Algorithmic\u00a0Contract\u00a0Design",
+    "speaker": "Tomer Ezra, Harvard",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-04-02",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Tomer Ezra",
+    "title": "Algorithmic Contract Design"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-04-07",
+    "time": "11:30",
+    "title": "Differentially Private Multi-Sampling from Distributions",
+    "speaker": "Debanuj Nayak, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-04-09",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Jamie Tucker-Foltz",
+    "title": "Sampling tree-weighted balanced graph partitions in polynomial time"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-04-14",
+    "time": "11:30",
+    "title": "Information Design with Unknown Prior",
+    "speaker": "Ce Li, Boston University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-04-16",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Gerdus Benade",
+    "title": "Fair and efficient online allocations"
+  },
+  {
+    "title": "Charles River Crypto Day",
+    "date": "2025-04-18",
+    "time": "09:30",
+    "location": "BU",
+    "series": "Charles River Crypto Day",
+    "series_url": "https://bostoncryptoday.wordpress.com/",
+    "url": "https://bostoncryptoday.wordpress.com/2025/04/11/friday-april-18-at-bu/",
+    "speaker": "Cody Freitag"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-04-23",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Hsin-Hao Su",
+    "title": "Deterministic Expander Routing: Faster and More Versatile"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-04-28",
+    "time": "11:30",
+    "title": "Ghost Value Augmentation for k-Edge-Connectivity",
+    "speaker": "Rico Zenklusen, ETH Zurich",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "Northeastern Theory Seminar",
+    "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
+    "date": "2025-04-30",
+    "time": "12:00",
+    "location": "Northeastern Hastings Hall 106",
+    "speaker": "Hung Le",
+    "title": "Designing Graph Algorithms with VC Dimension"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-05-05",
+    "time": "11:30",
+    "title": "Applications of Multicalibration in Complexity and Cryptography",
+    "speaker": "Salil Vadhan, Harvard University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-09-08",
+    "time": "14:00",
+    "title": "Monika Henzinger Student Meetings",
+    "speaker": "",
+    "location": "BU CDS 10 Purple Lounge"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-09-08",
+    "time": "11:30",
+    "title": "Composition Theorems for Differential Privacy under Continual Observation",
+    "speaker": "Monika Henzinger, ISTA",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "MIT Theory of Computation",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
+    "location": "TBD",
+    "url": "https://www.csail.mit.edu/event/new-paradigm-learning-distribution-shift",
+    "title": "A New Paradigm for Learning with Distribution Shift",
+    "speaker": "Adam Klivans",
+    "affiliation": "UT Austin",
+    "date": "2025-09-09",
+    "time": "16:15"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-09-15",
+    "time": "11:30",
+    "title": "Computational Complexity in Property Testing",
+    "speaker": "Diptaksho Palit, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "MIT Theory of Computation",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
+    "location": "TBD",
+    "url": "https://www.csail.mit.edu/event/sparsification-1-3-sat",
+    "title": "Sparsification of 1-in-3-SAT",
+    "speaker": "Standa \u017divn\u00fd",
+    "affiliation": "University of Oxford",
+    "date": "2025-09-16",
+    "time": "16:15"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-09-22",
+    "time": "11:30",
+    "title": "Informal 5-10 minute Whiteboard Talks",
+    "speaker": "",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "MIT Theory of Computation",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
+    "location": "TBD",
+    "url": "https://www.csail.mit.edu/event/explicit-lossless-vertex-expanders",
+    "title": "Explicit Lossless Vertex Expanders",
+    "speaker": "Rachel Zhang",
+    "affiliation": "CSAIL, EECS",
+    "date": "2025-09-23",
+    "time": "16:15"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-09-29",
+    "time": "11:30",
+    "title": "Efficient Algorithms for Adversarially Robust Nearest Neighbor Search",
+    "speaker": "Themis Harris, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-10-06",
+    "time": "11:30",
+    "title": "Learning Sequential Decision Making Algorithms from Data  (Aldo Pacchiano, BU)",
+    "speaker": "AI that Learns How to Act",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "MIT Theory of Computation",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
+    "location": "TBD",
+    "url": "https://www.csail.mit.edu/event/beck-fiala-and-komlos-conjectures",
+    "title": "On Beck-Fiala and Koml\u00f3s Conjectures",
+    "speaker": "Nikhil Bansal",
+    "affiliation": "University of Michigan",
+    "date": "2025-10-07",
+    "time": "16:15"
+  },
+  {
+    "series": "MIT Theory of Computation",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
+    "location": "TBD",
+    "url": "https://www.csail.mit.edu/event/introducing-algorithmic-thinking-theory-foundation-models",
+    "title": "Introducing Algorithmic Thinking Theory for Foundation Models",
+    "speaker": "Vincent Cohen-Addad",
+    "affiliation": "Google Research",
+    "date": "2025-10-14",
+    "time": "16:15"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-10-20",
+    "time": "11:30",
+    "title": "Network Design in Planar Digraphs",
+    "speaker": "Rhea Jain, UIUC",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-10-27",
+    "time": "11:30",
+    "title": "a No-Regret Approach to Safe Online Classification (Spyros Dragazis, BU)",
+    "speaker": "The Good, the Bad, and the Sampled",
+    "location": "BU CDS 1101"
+  },
+  {
+    "series": "MIT Theory of Computation",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
+    "location": "TBD",
+    "url": "https://www.csail.mit.edu/event/redundancy-all-you-need-csp-sparsification",
+    "title": "Redundancy is all you need (for CSP sparsification)",
+    "speaker": "Venkat Guruswami",
+    "affiliation": "UC Berkeley",
+    "date": "2025-10-28",
+    "time": "16:15"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-11-03",
+    "time": "12:30",
+    "title": "Better Bounds for Semi-Streaming Single Source Shortest Paths",
+    "speaker": "Janani Sundaresan, Waterloo",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-11-10",
+    "time": "12:30",
+    "title": "Log-concave Polynomials in TCS",
+    "speaker": "Jonathan Leake, University of Waterloo",
+    "location": "BU CDS 1101"
+  },
+  {
+    "title": "Charles River Crypto Day",
+    "date": "2025-11-14",
+    "time": "09:30",
+    "location": "MIT",
+    "series": "Charles River Crypto Day",
+    "series_url": "https://bostoncryptoday.wordpress.com/",
+    "url": "https://bostoncryptoday.wordpress.com/2025/09/08/friday-november-14-at-mit/",
+    "speaker": "Jad Silbak, Saroja Erabelli"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-11-17",
+    "time": "12:30",
+    "title": "Martin Farach-Colton",
+    "speaker": "New York University",
+    "location": "BU CDS 1750"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-11-24",
+    "time": "12:30",
+    "title": "Testing Distributions Against Bounded Distinguishers: Rathin Desai",
+    "speaker": "Boston University",
+    "location": "BU CDS 548"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-12-01",
+    "time": "12:30",
+    "title": "Alkis Kalavasis (Yale University)",
+    "speaker": "Distribution Learning and Diffusion Models",
+    "location": "BU CDS 1101"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-12-08",
+    "time": "12:30",
+    "title": "Average-Case Complexity of Quantum Stabilizer Decoding",
+    "speaker": "Alex Poremba, BU",
+    "location": "BU CDS 1101"
+  },
+  {
+    "series": "MIT Theory of Computation",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
+    "location": "TBD",
+    "url": "https://www.csail.mit.edu/event/can-we-speed-safely",
+    "title": "Can we speed safely?",
+    "speaker": "Ronitt Rubinfeld",
+    "affiliation": "CSAIL, EECS",
+    "date": "2025-12-09",
+    "time": "16:15"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2026-01-26",
+    "time": "12:30",
+    "title": "Theory Seminar TBD",
+    "speaker": ""
+  },
+  {
+    "series": "MIT Theory of Computation",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
+    "location": "TBD",
+    "url": "https://www.csail.mit.edu/event/tba",
+    "title": "TBA",
+    "speaker": "Shachar Lovett",
+    "affiliation": "UCSD",
+    "date": "2026-03-17",
+    "time": "16:15"
+  }
+]

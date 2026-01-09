@@ -1,0 +1,2 @@
+Option to submit your email so you get notified when a new item is added
+Option to add an item manually (with verficiation by admin)

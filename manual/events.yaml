@@ -1,0 +1,19 @@
+# Manual event entries
+# Add events here that aren't captured by scrapers
+#
+# Required fields: title, date
+# Optional fields: speaker, affiliation, time, location, series, url, abstract
+#
+# Example:
+# - title: "Talk Title Here"
+#   speaker: "Speaker Name"
+#   affiliation: "University"
+#   date: "2026-01-15"
+#   time: "14:00"
+#   location: "Building Room"
+#   series: "Seminar Series Name"
+#   url: "https://..."
+
+events:
+  # Add your events below this line
+  []

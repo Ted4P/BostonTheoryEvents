@@ -1,0 +1,442 @@
+[
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-02-05",
+    "time": "13:30",
+    "title": "Hardness Condensation by Restriction",
+    "speaker": "Artur Riazanov, EPFL",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-02-12",
+    "time": "13:30",
+    "title": "Theory Lunch",
+    "speaker": "",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-02-21",
+    "time": "13:30",
+    "title": "Learning from Nisan's Natural Proofs",
+    "speaker": "Ari Karchmer, Boston University",
+    "location": "BU CDS 1646"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-02-28",
+    "time": "13:00",
+    "title": "Learning With Data That \u2018Behaves\u2019 (Nir Rosenfeld, Technion)",
+    "speaker": "Strategic Classification",
+    "location": "BU CDS 801"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-03-04",
+    "time": "13:30",
+    "title": "Node-Private Graph Statistics under Continual Observation",
+    "speaker": "Connor Wagaman, Boston University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-03-18",
+    "time": "12:15",
+    "title": "Exponential Quantum Space Advantage for Approximating Maximum Directed Cut in the Streaming Model",
+    "speaker": "Nadya Voronova, Boston University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-04-01",
+    "time": "12:30",
+    "title": "Theory Lunch",
+    "speaker": "no talk today",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-04-08",
+    "time": "12:30",
+    "title": "Synergy between Circuit Obfuscation and Circuit Minimization",
+    "speaker": "Ilya Volkovich, Boston College",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-04-22",
+    "time": "12:30",
+    "title": "On the Power of Adaptivity for Function Inversion",
+    "speaker": "Samuel King, Georgetown University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-04-29",
+    "time": "12:30",
+    "title": "On Optimal XOR-circuits - Their One True Shape",
+    "speaker": "Nathan Dang, Boston University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-05-06",
+    "time": "12:30",
+    "title": "Testing Linearity and Other Properties with Online Adversaries",
+    "speaker": "Esty Kelman, MIT+BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-09-09",
+    "time": "11:30",
+    "title": "A Better-Than-1.6-Approximation for Prize-Collecting TSP",
+    "speaker": "Nathan Klein, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-09-16",
+    "time": "11:30",
+    "title": "A Dynamical Approach (Renato Ferreira Pinto Jr., University of Waterloo)",
+    "speaker": "Directed Isoperimetry and Monotonicity Testing",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-09-23",
+    "time": "11:30",
+    "title": "Sparse Graph Counting and Kelley--Meka Bounds for Binary Systems",
+    "speaker": "Esty Kelman, MIT+BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-09-30",
+    "time": "11:30",
+    "title": "Privately Evaluating Untrusted Black-Box Functions",
+    "speaker": "Ephraim Linder, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-10-07",
+    "time": "11:30",
+    "title": "Finding Circuits for Simple XOR Extensions in Polynomial Time",
+    "speaker": "Tim Jackman, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-10-21",
+    "time": "11:30",
+    "title": "The Power of Graph Sparsification in the Continual Release Model",
+    "speaker": "Quanquan Liu, Yale",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-10-28",
+    "time": "11:30",
+    "title": "Optimal Stopping with Interdependent Values",
+    "speaker": "Divyarthi Mohan, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-11-04",
+    "time": "12:30",
+    "title": "Finding missing items requires strong forms of randomness",
+    "speaker": "Amit Chakrabarti, Dartmouth",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-11-11",
+    "time": "12:30",
+    "title": "Why Are You Like This? (Mark Bun, Boston University)",
+    "speaker": "Private PAC Learning",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-11-18",
+    "time": "12:30",
+    "title": "Vizing\u2019s Theorem in Near-Linear Time",
+    "speaker": "Soheil Behnezhad, Northeastern University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-11-25",
+    "time": "12:30",
+    "title": "Proofs of Space with Maximal Hardness",
+    "speaker": "Leonid Reyzin, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-12-02",
+    "time": "12:30",
+    "title": "Sparse Polynomial Interpolation with Softly Optimal Bit Complexity",
+    "speaker": "Dan Roche, US Naval Academy",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-12-09",
+    "time": "12:30",
+    "title": "The Learning Stabilizers with Noise problem",
+    "speaker": "Alexander Poremba, MIT",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-01-22",
+    "time": "12:30",
+    "title": "Dynamic Consistent \ud835\udc58-Center Clustering with Optimal Recourse: Antonis Skarlatos",
+    "speaker": "University of Salzburg",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-02-03",
+    "time": "12:30",
+    "title": "Gaussian Polytope Approximation",
+    "speaker": "Shivam Nadimpalli, MIT",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-02-24",
+    "time": "12:30",
+    "title": "Recent Advances in Exact and Approximate Linear Programming (Zhuan Khye (Cedric) Koh, BU)",
+    "speaker": "",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-03-03",
+    "time": "12:30",
+    "title": "Adaptivity and Monotonicity (Nithin Varma, University of Cologne)",
+    "speaker": "Forbidden Order Patterns in Real-Valued Functions",
+    "location": "BU CAS B06A"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-03-24",
+    "time": "11:30",
+    "title": "Weak Poincar\u00e9\u00a0Inequalities and Mixing from Non-Worst-Case Initializations",
+    "speaker": "Amit Rajaraman, MIT",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-03-31",
+    "time": "11:30",
+    "title": "Algorithmic\u00a0Contract\u00a0Design",
+    "speaker": "Tomer Ezra, Harvard",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-04-07",
+    "time": "11:30",
+    "title": "Differentially Private Multi-Sampling from Distributions",
+    "speaker": "Debanuj Nayak, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-04-14",
+    "time": "11:30",
+    "title": "Information Design with Unknown Prior",
+    "speaker": "Ce Li, Boston University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-04-28",
+    "time": "11:30",
+    "title": "Ghost Value Augmentation for k-Edge-Connectivity",
+    "speaker": "Rico Zenklusen, ETH Zurich",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-05-05",
+    "time": "11:30",
+    "title": "Applications of Multicalibration in Complexity and Cryptography",
+    "speaker": "Salil Vadhan, Harvard University",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-09-08",
+    "time": "14:00",
+    "title": "Monika Henzinger Student Meetings",
+    "speaker": "",
+    "location": "BU CDS 10 Purple Lounge"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-09-08",
+    "time": "11:30",
+    "title": "Composition Theorems for Differential Privacy under Continual Observation",
+    "speaker": "Monika Henzinger, ISTA",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-09-15",
+    "time": "11:30",
+    "title": "Computational Complexity in Property Testing",
+    "speaker": "Diptaksho Palit, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-09-22",
+    "time": "11:30",
+    "title": "Informal 5-10 minute Whiteboard Talks",
+    "speaker": "",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-09-29",
+    "time": "11:30",
+    "title": "Efficient Algorithms for Adversarially Robust Nearest Neighbor Search",
+    "speaker": "Themis Harris, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-10-06",
+    "time": "11:30",
+    "title": "Learning Sequential Decision Making Algorithms from Data  (Aldo Pacchiano, BU)",
+    "speaker": "AI that Learns How to Act",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-10-20",
+    "time": "11:30",
+    "title": "Network Design in Planar Digraphs",
+    "speaker": "Rhea Jain, UIUC",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-10-27",
+    "time": "11:30",
+    "title": "a No-Regret Approach to Safe Online Classification (Spyros Dragazis, BU)",
+    "speaker": "The Good, the Bad, and the Sampled",
+    "location": "BU CDS 1101"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-11-03",
+    "time": "12:30",
+    "title": "Better Bounds for Semi-Streaming Single Source Shortest Paths",
+    "speaker": "Janani Sundaresan, Waterloo",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-11-10",
+    "time": "12:30",
+    "title": "Log-concave Polynomials in TCS",
+    "speaker": "Jonathan Leake, University of Waterloo",
+    "location": "BU CDS 1101"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-11-17",
+    "time": "12:30",
+    "title": "Martin Farach-Colton",
+    "speaker": "New York University",
+    "location": "BU CDS 1750"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-11-24",
+    "time": "12:30",
+    "title": "Testing Distributions Against Bounded Distinguishers: Rathin Desai",
+    "speaker": "Boston University",
+    "location": "BU CDS 548"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-12-01",
+    "time": "12:30",
+    "title": "Alkis Kalavasis (Yale University)",
+    "speaker": "Distribution Learning and Diffusion Models",
+    "location": "BU CDS 1101"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2025-12-08",
+    "time": "12:30",
+    "title": "Average-Case Complexity of Quantum Stabilizer Decoding",
+    "speaker": "Alex Poremba, BU",
+    "location": "BU CDS 1101"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2026-01-26",
+    "time": "12:30",
+    "title": "Theory Seminar TBD",
+    "speaker": ""
+  }
+]
