@@ -67,18 +67,40 @@ def validate_event(event: dict) -> bool:
     return all(event.get(field) for field in required)
 
 
+def event_completeness(event: dict) -> int:
+    """Score how complete an event's details are (higher = more complete)."""
+    score = 0
+    for field in ["title", "speaker", "location", "time", "affiliation", "url"]:
+        value = event.get(field, "")
+        if value and value.upper() != "TBA" and value != "TBD":
+            score += 1
+    # Bonus for non-generic titles
+    title = event.get("title", "")
+    if title and title.upper() != "TBA" and "TBD" not in title.upper():
+        score += 2
+    return score
+
+
 def deduplicate_events(events: list) -> list:
-    """Remove duplicate events based on title + date."""
-    seen = set()
-    unique = []
+    """Remove duplicate events, keeping the most complete version.
+
+    Deduplicates by (date, series) - when an event updates from TBA
+    to having real details, we keep the version with more info.
+    """
+    seen = {}
 
     for event in events:
-        key = (event.get("title", ""), event.get("date", ""))
-        if key not in seen:
-            seen.add(key)
-            unique.append(event)
+        # Primary key: date + series
+        key = (event.get("date", ""), event.get("series", ""))
 
-    return unique
+        if key not in seen:
+            seen[key] = event
+        else:
+            # Keep the more complete event
+            if event_completeness(event) > event_completeness(seen[key]):
+                seen[key] = event
+
+    return list(seen.values())
 
 
 def main():
