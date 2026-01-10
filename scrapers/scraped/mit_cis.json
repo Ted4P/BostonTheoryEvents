@@ -1,0 +1,160 @@
+[
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Breaking Verifiable Delay Functions in the Random Oracle Model",
+    "speaker": "Ziyi Guan",
+    "affiliation": "EPFL",
+    "date": "2025-09-05"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Succinct Witness Encryption for Batch Languages and Applications",
+    "speaker": "Lalita Devadas",
+    "affiliation": "MIT",
+    "date": "2025-09-12"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "How to Verify Any (Reasonable) Distribution Property: Computationally Sound Argument Systems for Distributions",
+    "speaker": "Tal Herman",
+    "affiliation": "UC Berkeley",
+    "date": "2025-09-19"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Succinct Non-interactive Arguments of Proximity",
+    "speaker": "Liyan Chen",
+    "affiliation": "MIT",
+    "date": "2025-09-26"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "No Seminar",
+    "speaker": "Theory Student Retreat",
+    "date": "2025-10-03"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "The Sponge is Quantum Indifferentiable",
+    "speaker": "Joseph Carolan",
+    "affiliation": "University of Maryland",
+    "date": "2025-10-10"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Parallel Repetition for Post-Quantum Arguments",
+    "speaker": "Andrew Huang",
+    "affiliation": "MIT",
+    "date": "2025-10-17"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "G\u00c3\u00b6del in Cryptography: Zero-Knowledge for NP With No Interaction, No Setup, and Perfect Soundness",
+    "speaker": "Rahul Ilango",
+    "affiliation": "IAS",
+    "date": "2025-10-24"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Efficiently Batching Unambiguous Interactive Proofs",
+    "speaker": "Rohan Goyal",
+    "affiliation": "MIT",
+    "date": "2025-11-07"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Two-Server Private Information Retrieval in Sublinear Time and Quasilinear Space",
+    "speaker": "Alexandra Henzinger & Seyoon Ragavan",
+    "affiliation": "MIT",
+    "date": "2025-11-21"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "No Seminar",
+    "speaker": "Thanksgiving Break",
+    "date": "2025-11-28"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Near-Optimal Time-Sparsity Trade-Offs for Solving Noisy Linear Equations",
+    "speaker": "Kiril Bangachev",
+    "affiliation": "MIT EECS",
+    "date": "2025-02-21"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Recursive lattice reduction \u00e2\u0080\u0094 A simple framework for finding short lattice vectors",
+    "speaker": "Noah Stephens-Davidowitz",
+    "affiliation": "Cornell University",
+    "date": "2025-03-07"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "(Authenticated) BitGC for (Active) Rate-one 2PC",
+    "speaker": "Xiao Wang",
+    "affiliation": "Northwestern University",
+    "date": "2025-03-14"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Thesis Defense: Succinct Cryptography via Propositional Proofs",
+    "speaker": "Surya Mathialagan",
+    "affiliation": "MIT",
+    "date": "2025-05-02"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Quantum One-Time Programs, Revisited",
+    "speaker": "Aparna Gupte",
+    "affiliation": "MIT",
+    "date": "2025-05-09"
+  }
+]

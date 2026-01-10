@@ -1,0 +1,165 @@
+[
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/which-algorithms-have-tight-generalization-bounds",
+    "title": "Which Algorithms Have Tight Generalization Bounds?",
+    "speaker": "Thomas Weinberger",
+    "affiliation": "EPFL",
+    "date": "2025-12-10",
+    "time": "15:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/settling-pass-complexity-approximate-matchings-dynamic-graph-streams",
+    "title": "Settling the Pass Complexity of Approximate Matchings in Dynamic Graph Streams",
+    "speaker": "Soheil Behnezhad",
+    "affiliation": "Northeastern",
+    "date": "2025-12-03",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/fast-algorithms-graph-arboricity-and-related-problems",
+    "title": "Fast Algorithms for Graph Arboricity and Related Problems",
+    "speaker": "George Zhaoqi Li",
+    "affiliation": "Carnegie Mellon",
+    "date": "2025-11-19",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/low-query-locally-testable-codes",
+    "title": "Low-Query Locally Testable Codes",
+    "speaker": "Uriya First",
+    "affiliation": "University of Haifa",
+    "date": "2025-11-12",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/zeroth-order-log-concave-sampling-uniform-sampling-convex-bodies",
+    "title": "Zeroth-order log-concave sampling: Uniform sampling from convex bodies",
+    "speaker": "Yunbum Kook",
+    "affiliation": "Georgia Tech",
+    "date": "2025-11-05",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/mysterious-query-complexity-tarski-fixed-points",
+    "title": "The Mysterious Query Complexity of Tarski Fixed Points",
+    "speaker": "Yuhao Li",
+    "affiliation": "Columbia University",
+    "date": "2025-10-29",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/fast-mixing-1d-quantum-gibbs-samplers-all-temperatures",
+    "title": "Fast Mixing of 1D Quantum Gibbs Samplers at All Temperatures",
+    "speaker": "Anthony (Chi-Fang) Chen",
+    "affiliation": "UC Berkeley",
+    "date": "2025-10-27",
+    "time": "15:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/fault-tolerance-buy-bulk-and-hop-constrained-network-design",
+    "title": "Fault-Tolerance in Buy-at-Bulk and Hop-Constrained Network Design",
+    "speaker": "Rhea Jain",
+    "affiliation": "UIUC",
+    "date": "2025-10-22",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/memory-lens-understand-learning-and-optimization",
+    "title": "Memory as a lens to understand learning and optimization",
+    "speaker": "Vatsal Sharan",
+    "affiliation": "USC",
+    "date": "2025-10-20",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/quality-control-random-graphs-sublinear-time",
+    "title": "Quality Control on Random Graphs in Sublinear Time",
+    "speaker": "Cassandra Marcussen",
+    "affiliation": "Harvard University",
+    "date": "2025-10-15",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/approximating-high-dimensional-earth-movers-distance-fast-closest-pair",
+    "title": "Approximating High-Dimensional Earth Mover\u2019s Distance as Fast as Closest Pair",
+    "speaker": "Lorenzo Beretta",
+    "affiliation": "IBM",
+    "date": "2025-10-08",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/faster-mixing-jerrum-sinclair-chain",
+    "title": "Faster Mixing of the Jerrum-Sinclair Chain",
+    "speaker": "Xiaoyu Chen",
+    "affiliation": "LIDS",
+    "date": "2025-10-01",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/learning-and-incentives-human-ai-collaboration",
+    "title": "Learning and Incentives in Human\u2013AI Collaboration",
+    "speaker": "Natalie Collina",
+    "affiliation": "UPenn",
+    "date": "2025-09-24",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/distribution-learning-advice-arnab-bhattacharyya",
+    "title": "Distribution Learning with Advice by Arnab Bhattacharyya",
+    "date": "2025-09-19",
+    "time": "14:00"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/metric-embeddings-outliers",
+    "title": "Metric Embeddings with Outliers",
+    "speaker": "Kristin Sheridan",
+    "affiliation": "UT Austin",
+    "date": "2025-09-17",
+    "time": "14:00"
+  }
+]

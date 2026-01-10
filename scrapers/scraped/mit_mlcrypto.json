@@ -1,0 +1,65 @@
+[
+  {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "Sequences of Logits and the Low Rank Structure of Language Models",
+    "speaker": "Noah Golowich",
+    "affiliation": "Microsoft Research NYC",
+    "date": "2025-11-18"
+  },
+  {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "Why Language Models Hallucinate",
+    "speaker": "Adam Tauman Kalai",
+    "affiliation": "OpenAI",
+    "date": "2025-11-04"
+  },
+  {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "Statistically Undetectable Backdoors in Deep Neural Networks",
+    "speaker": "Neekon Vafa",
+    "affiliation": "MIT",
+    "date": "2025-10-21"
+  },
+  {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "What Can Cryptography Tell Us About AI?",
+    "speaker": "Greg Gluch",
+    "affiliation": "Simons Institute, UC Berkeley",
+    "date": "2025-10-14"
+  },
+  {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "Model Stealing: Recent Results and Open Problems",
+    "speaker": "Ankur Moitra",
+    "affiliation": "MIT",
+    "date": "2025-10-07"
+  },
+  {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "Proofs for Distribution Properties: Review of Recent Results",
+    "speaker": "Tal Herman",
+    "affiliation": "MIT",
+    "date": "2025-09-30"
+  },
+  {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "A Survey of Cryptographic Watermarks for AI-Generated Content",
+    "speaker": "Miranda Christ",
+    "affiliation": "Columbia",
+    "date": "2025-09-23"
+  }
+]

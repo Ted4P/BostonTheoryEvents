@@ -458,6 +458,16 @@
     "title": "Correlation Clustering and (De)Sparsification: Graph Sketches Can Match Classical Algorithms"
   },
   {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Near-Optimal Time-Sparsity Trade-Offs for Solving Noisy Linear Equations",
+    "speaker": "Kiril Bangachev",
+    "affiliation": "MIT EECS",
+    "date": "2025-02-21"
+  },
+  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-02-24",
@@ -485,6 +495,16 @@
     "location": "BU CAS B06A"
   },
   {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Recursive lattice reduction \u00e2\u0080\u0094 A simple framework for finding short lattice vectors",
+    "speaker": "Noah Stephens-Davidowitz",
+    "affiliation": "Cornell University",
+    "date": "2025-03-07"
+  },
+  {
     "series": "Northeastern Theory Seminar",
     "series_url": "https://theory.khoury.northeastern.edu/seminar.html",
     "date": "2025-03-12",
@@ -492,6 +512,16 @@
     "location": "Northeastern Hastings Hall 106",
     "speaker": "Ronitt Rubinfeld",
     "title": "Properly learning monotone functions via local correction"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "(Authenticated) BitGC for (Active) Rate-one 2PC",
+    "speaker": "Xiao Wang",
+    "affiliation": "Northwestern University",
+    "date": "2025-03-14"
   },
   {
     "series": "Northeastern Theory Seminar",
@@ -612,6 +642,16 @@
     "title": "Designing Graph Algorithms with VC Dimension"
   },
   {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Thesis Defense: Succinct Cryptography via Propositional Proofs",
+    "speaker": "Surya Mathialagan",
+    "affiliation": "MIT",
+    "date": "2025-05-02"
+  },
+  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-05-05",
@@ -619,6 +659,26 @@
     "title": "Applications of Multicalibration in Complexity and Cryptography",
     "speaker": "Salil Vadhan, Harvard University",
     "location": "BU CDS 1001"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Quantum One-Time Programs, Revisited",
+    "speaker": "Aparna Gupte",
+    "affiliation": "MIT",
+    "date": "2025-05-09"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Breaking Verifiable Delay Functions in the Random Oracle Model",
+    "speaker": "Ziyi Guan",
+    "affiliation": "EPFL",
+    "date": "2025-09-05"
   },
   {
     "series": "BU Theory Seminar",
@@ -641,6 +701,16 @@
     "time": "16:15"
   },
   {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Succinct Witness Encryption for Batch Languages and Applications",
+    "speaker": "Lalita Devadas",
+    "affiliation": "MIT",
+    "date": "2025-09-12"
+  },
+  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-09-15",
@@ -659,6 +729,36 @@
     "affiliation": "University of Oxford",
     "date": "2025-09-16",
     "time": "16:15"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/metric-embeddings-outliers",
+    "title": "Metric Embeddings with Outliers",
+    "speaker": "Kristin Sheridan",
+    "affiliation": "UT Austin",
+    "date": "2025-09-17",
+    "time": "14:00"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "How to Verify Any (Reasonable) Distribution Property: Computationally Sound Argument Systems for Distributions",
+    "speaker": "Tal Herman",
+    "affiliation": "UC Berkeley",
+    "date": "2025-09-19"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/distribution-learning-advice-arnab-bhattacharyya",
+    "title": "Distribution Learning with Advice by Arnab Bhattacharyya",
+    "date": "2025-09-19",
+    "time": "14:00"
   },
   {
     "series": "BU Theory Seminar",
@@ -681,6 +781,36 @@
     "time": "16:15"
   },
   {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "A Survey of Cryptographic Watermarks for AI-Generated Content",
+    "speaker": "Miranda Christ",
+    "affiliation": "Columbia",
+    "date": "2025-09-23"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/learning-and-incentives-human-ai-collaboration",
+    "title": "Learning and Incentives in Human\u2013AI Collaboration",
+    "speaker": "Natalie Collina",
+    "affiliation": "UPenn",
+    "date": "2025-09-24",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Succinct Non-interactive Arguments of Proximity",
+    "speaker": "Liyan Chen",
+    "affiliation": "MIT",
+    "date": "2025-09-26"
+  },
+  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-09-29",
@@ -688,6 +818,35 @@
     "title": "Efficient Algorithms for Adversarially Robust Nearest Neighbor Search",
     "speaker": "Themis Harris, BU",
     "location": "BU CDS 1001"
+  },
+  {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "Proofs for Distribution Properties: Review of Recent Results",
+    "speaker": "Tal Herman",
+    "affiliation": "MIT",
+    "date": "2025-09-30"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/faster-mixing-jerrum-sinclair-chain",
+    "title": "Faster Mixing of the Jerrum-Sinclair Chain",
+    "speaker": "Xiaoyu Chen",
+    "affiliation": "LIDS",
+    "date": "2025-10-01",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "No Seminar",
+    "speaker": "Theory Student Retreat",
+    "date": "2025-10-03"
   },
   {
     "series": "BU Theory Seminar",
@@ -710,6 +869,36 @@
     "time": "16:15"
   },
   {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "Model Stealing: Recent Results and Open Problems",
+    "speaker": "Ankur Moitra",
+    "affiliation": "MIT",
+    "date": "2025-10-07"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/approximating-high-dimensional-earth-movers-distance-fast-closest-pair",
+    "title": "Approximating High-Dimensional Earth Mover\u2019s Distance as Fast as Closest Pair",
+    "speaker": "Lorenzo Beretta",
+    "affiliation": "IBM",
+    "date": "2025-10-08",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "The Sponge is Quantum Indifferentiable",
+    "speaker": "Joseph Carolan",
+    "affiliation": "University of Maryland",
+    "date": "2025-10-10"
+  },
+  {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
     "location": "TBD",
@@ -721,6 +910,36 @@
     "time": "16:15"
   },
   {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "What Can Cryptography Tell Us About AI?",
+    "speaker": "Greg Gluch",
+    "affiliation": "Simons Institute, UC Berkeley",
+    "date": "2025-10-14"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/quality-control-random-graphs-sublinear-time",
+    "title": "Quality Control on Random Graphs in Sublinear Time",
+    "speaker": "Cassandra Marcussen",
+    "affiliation": "Harvard University",
+    "date": "2025-10-15",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Parallel Repetition for Post-Quantum Arguments",
+    "speaker": "Andrew Huang",
+    "affiliation": "MIT",
+    "date": "2025-10-17"
+  },
+  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-10-20",
@@ -730,6 +949,47 @@
     "location": "BU CDS 1001"
   },
   {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/memory-lens-understand-learning-and-optimization",
+    "title": "Memory as a lens to understand learning and optimization",
+    "speaker": "Vatsal Sharan",
+    "affiliation": "USC",
+    "date": "2025-10-20",
+    "time": "16:00"
+  },
+  {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "Statistically Undetectable Backdoors in Deep Neural Networks",
+    "speaker": "Neekon Vafa",
+    "affiliation": "MIT",
+    "date": "2025-10-21"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/fault-tolerance-buy-bulk-and-hop-constrained-network-design",
+    "title": "Fault-Tolerance in Buy-at-Bulk and Hop-Constrained Network Design",
+    "speaker": "Rhea Jain",
+    "affiliation": "UIUC",
+    "date": "2025-10-22",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "G\u00c3\u00b6del in Cryptography: Zero-Knowledge for NP With No Interaction, No Setup, and Perfect Soundness",
+    "speaker": "Rahul Ilango",
+    "affiliation": "IAS",
+    "date": "2025-10-24"
+  },
+  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-10-27",
@@ -737,6 +997,17 @@
     "title": "a No-Regret Approach to Safe Online Classification (Spyros Dragazis, BU)",
     "speaker": "The Good, the Bad, and the Sampled",
     "location": "BU CDS 1101"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/fast-mixing-1d-quantum-gibbs-samplers-all-temperatures",
+    "title": "Fast Mixing of 1D Quantum Gibbs Samplers at All Temperatures",
+    "speaker": "Anthony (Chi-Fang) Chen",
+    "affiliation": "UC Berkeley",
+    "date": "2025-10-27",
+    "time": "15:00"
   },
   {
     "series": "MIT Theory of Computation",
@@ -750,6 +1021,17 @@
     "time": "16:15"
   },
   {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/mysterious-query-complexity-tarski-fixed-points",
+    "title": "The Mysterious Query Complexity of Tarski Fixed Points",
+    "speaker": "Yuhao Li",
+    "affiliation": "Columbia University",
+    "date": "2025-10-29",
+    "time": "16:00"
+  },
+  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-11-03",
@@ -759,6 +1041,36 @@
     "location": "BU CDS 1001"
   },
   {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "Why Language Models Hallucinate",
+    "speaker": "Adam Tauman Kalai",
+    "affiliation": "OpenAI",
+    "date": "2025-11-04"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/zeroth-order-log-concave-sampling-uniform-sampling-convex-bodies",
+    "title": "Zeroth-order log-concave sampling: Uniform sampling from convex bodies",
+    "speaker": "Yunbum Kook",
+    "affiliation": "Georgia Tech",
+    "date": "2025-11-05",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Efficiently Batching Unambiguous Interactive Proofs",
+    "speaker": "Rohan Goyal",
+    "affiliation": "MIT",
+    "date": "2025-11-07"
+  },
+  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-11-10",
@@ -766,6 +1078,17 @@
     "title": "Log-concave Polynomials in TCS",
     "speaker": "Jonathan Leake, University of Waterloo",
     "location": "BU CDS 1101"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/low-query-locally-testable-codes",
+    "title": "Low-Query Locally Testable Codes",
+    "speaker": "Uriya First",
+    "affiliation": "University of Haifa",
+    "date": "2025-11-12",
+    "time": "16:00"
   },
   {
     "title": "Charles River Crypto Day",
@@ -787,6 +1110,36 @@
     "location": "BU CDS 1750"
   },
   {
+    "series": "ML+Cryptography Seminar",
+    "series_url": "https://mlcrypto.github.io/seminar/index.html",
+    "location": "MIT",
+    "title": "Sequences of Logits and the Low Rank Structure of Language Models",
+    "speaker": "Noah Golowich",
+    "affiliation": "Microsoft Research NYC",
+    "date": "2025-11-18"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/fast-algorithms-graph-arboricity-and-related-problems",
+    "title": "Fast Algorithms for Graph Arboricity and Related Problems",
+    "speaker": "George Zhaoqi Li",
+    "affiliation": "Carnegie Mellon",
+    "date": "2025-11-19",
+    "time": "16:00"
+  },
+  {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "Two-Server Private Information Retrieval in Sublinear Time and Quasilinear Space",
+    "speaker": "Alexandra Henzinger & Seyoon Ragavan",
+    "affiliation": "MIT",
+    "date": "2025-11-21"
+  },
+  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-11-24",
@@ -796,6 +1149,15 @@
     "location": "BU CDS 548"
   },
   {
+    "series": "MIT CIS Seminar",
+    "series_url": "https://cis.csail.mit.edu/",
+    "location": "MIT 32-G882",
+    "time": "10:30",
+    "title": "No Seminar",
+    "speaker": "Thanksgiving Break",
+    "date": "2025-11-28"
+  },
+  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-12-01",
@@ -803,6 +1165,17 @@
     "title": "Alkis Kalavasis (Yale University)",
     "speaker": "Distribution Learning and Diffusion Models",
     "location": "BU CDS 1101"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/settling-pass-complexity-approximate-matchings-dynamic-graph-streams",
+    "title": "Settling the Pass Complexity of Approximate Matchings in Dynamic Graph Streams",
+    "speaker": "Soheil Behnezhad",
+    "affiliation": "Northeastern",
+    "date": "2025-12-03",
+    "time": "16:00"
   },
   {
     "series": "BU Theory Seminar",
@@ -823,6 +1196,17 @@
     "affiliation": "CSAIL, EECS",
     "date": "2025-12-09",
     "time": "16:15"
+  },
+  {
+    "series": "MIT Algorithms & Complexity",
+    "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
+    "location": "MIT 32-G575",
+    "url": "https://www.csail.mit.edu/event/which-algorithms-have-tight-generalization-bounds",
+    "title": "Which Algorithms Have Tight Generalization Bounds?",
+    "speaker": "Thomas Weinberger",
+    "affiliation": "EPFL",
+    "date": "2025-12-10",
+    "time": "15:00"
   },
   {
     "series": "BU Theory Seminar",
