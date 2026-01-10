@@ -36,15 +36,6 @@
     "location": "BU CDS 1001"
   },
   {
-    "series": "Harvard Theory Seminar",
-    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
-    "date": "2024-02-21",
-    "time": "15:45",
-    "location": "Harvard SEC 3.301-3.303",
-    "title": "Agnostic Proper Learning of Monotone Functions: Beyond the Black-Box Correction Barrier",
-    "speaker": "Jane Lange"
-  },
-  {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2024-02-21",
@@ -52,6 +43,15 @@
     "title": "Learning from Nisan's Natural Proofs",
     "speaker": "Ari Karchmer, Boston University",
     "location": "BU CDS 1646"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-02-21",
+    "time": "15:45",
+    "location": "Harvard SEC 3.301-3.303",
+    "title": "Agnostic Proper Learning of Monotone Functions: Beyond the Black-Box Correction Barrier",
+    "speaker": "Jane Lange"
   },
   {
     "series": "BU Theory Seminar",
@@ -181,16 +181,6 @@
     "location": "BU CDS 1001"
   },
   {
-    "series": "Harvard Theory Seminar",
-    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
-    "date": "2024-09-13",
-    "time": "15:45",
-    "location": "Harvard Winokur Family Hall 1.321",
-    "title": "The Value of Errors in Proofs",
-    "affiliation": "Institute for Advanced Study, Princeton University",
-    "speaker": "Avi Wigderson"
-  },
-  {
     "title": "Charles River Crypto Day",
     "date": "2024-09-13",
     "time": "09:30",
@@ -199,6 +189,16 @@
     "series_url": "https://bostoncryptoday.wordpress.com/",
     "url": "https://bostoncryptoday.wordpress.com/2024/08/29/friday-sep-13-mit/",
     "speaker": "David Wu, Ran Canetti"
+  },
+  {
+    "series": "Harvard Theory Seminar",
+    "series_url": "https://toc.seas.harvard.edu/toc-seminar",
+    "date": "2024-09-13",
+    "time": "15:45",
+    "location": "Harvard Winokur Family Hall 1.321",
+    "title": "The Value of Errors in Proofs",
+    "affiliation": "Institute for Advanced Study, Princeton University",
+    "speaker": "Avi Wigderson"
   },
   {
     "series": "BU Theory Seminar",
