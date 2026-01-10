@@ -86,12 +86,12 @@ def parse_event_card(card) -> dict:
         else:
             event["date"] = datetime_str[:10]
 
-    # Location (may override default)
-    loc_elem = card.select_one(".atc_location")
-    if loc_elem:
-        loc_text = loc_elem.get_text(strip=True)
-        if loc_text:
-            event["location"] = loc_text
+    # Location from room-popup link (more reliable than atc_location)
+    room_elem = card.select_one(".room-popup")
+    if room_elem:
+        room_text = room_elem.get_text(strip=True)
+        if room_text:
+            event["location"] = f"MIT {room_text}"
 
     return event
 

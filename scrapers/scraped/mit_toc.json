@@ -2,7 +2,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/tba",
     "title": "TBA",
     "speaker": "Shachar Lovett",
@@ -13,7 +13,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/can-we-speed-safely",
     "title": "Can we speed safely?",
     "speaker": "Ronitt Rubinfeld",
@@ -24,7 +24,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/redundancy-all-you-need-csp-sparsification",
     "title": "Redundancy is all you need (for CSP sparsification)",
     "speaker": "Venkat Guruswami",
@@ -35,7 +35,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/introducing-algorithmic-thinking-theory-foundation-models",
     "title": "Introducing Algorithmic Thinking Theory for Foundation Models",
     "speaker": "Vincent Cohen-Addad",
@@ -46,7 +46,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/beck-fiala-and-komlos-conjectures",
     "title": "On Beck-Fiala and Koml\u00f3s Conjectures",
     "speaker": "Nikhil Bansal",
@@ -57,7 +57,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/explicit-lossless-vertex-expanders",
     "title": "Explicit Lossless Vertex Expanders",
     "speaker": "Rachel Zhang",
@@ -68,7 +68,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/sparsification-1-3-sat",
     "title": "Sparsification of 1-in-3-SAT",
     "speaker": "Standa \u017divn\u00fd",
@@ -79,7 +79,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/new-paradigm-learning-distribution-shift",
     "title": "A New Paradigm for Learning with Distribution Shift",
     "speaker": "Adam Klivans",

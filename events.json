@@ -36,15 +36,6 @@
     "location": "BU CDS 1001"
   },
   {
-    "series": "BU Theory Seminar",
-    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
-    "date": "2024-02-21",
-    "time": "13:30",
-    "title": "Learning from Nisan's Natural Proofs",
-    "speaker": "Ari Karchmer, Boston University",
-    "location": "BU CDS 1646"
-  },
-  {
     "series": "Harvard Theory Seminar",
     "series_url": "https://toc.seas.harvard.edu/toc-seminar",
     "date": "2024-02-21",
@@ -52,6 +43,15 @@
     "location": "Harvard SEC 3.301-3.303",
     "title": "Agnostic Proper Learning of Monotone Functions: Beyond the Black-Box Correction Barrier",
     "speaker": "Jane Lange"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2024-02-21",
+    "time": "13:30",
+    "title": "Learning from Nisan's Natural Proofs",
+    "speaker": "Ari Karchmer, Boston University",
+    "location": "BU CDS 1646"
   },
   {
     "series": "BU Theory Seminar",
@@ -181,16 +181,6 @@
     "location": "BU CDS 1001"
   },
   {
-    "title": "Charles River Crypto Day",
-    "date": "2024-09-13",
-    "time": "09:30",
-    "location": "MIT",
-    "series": "Charles River Crypto Day",
-    "series_url": "https://bostoncryptoday.wordpress.com/",
-    "url": "https://bostoncryptoday.wordpress.com/2024/08/29/friday-sep-13-mit/",
-    "speaker": "David Wu, Ran Canetti"
-  },
-  {
     "series": "Harvard Theory Seminar",
     "series_url": "https://toc.seas.harvard.edu/toc-seminar",
     "date": "2024-09-13",
@@ -199,6 +189,16 @@
     "title": "The Value of Errors in Proofs",
     "affiliation": "Institute for Advanced Study, Princeton University",
     "speaker": "Avi Wigderson"
+  },
+  {
+    "title": "Charles River Crypto Day",
+    "date": "2024-09-13",
+    "time": "09:30",
+    "location": "MIT",
+    "series": "Charles River Crypto Day",
+    "series_url": "https://bostoncryptoday.wordpress.com/",
+    "url": "https://bostoncryptoday.wordpress.com/2024/08/29/friday-sep-13-mit/",
+    "speaker": "David Wu, Ran Canetti"
   },
   {
     "series": "BU Theory Seminar",
@@ -692,7 +692,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/new-paradigm-learning-distribution-shift",
     "title": "A New Paradigm for Learning with Distribution Shift",
     "speaker": "Adam Klivans",
@@ -722,7 +722,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/sparsification-1-3-sat",
     "title": "Sparsification of 1-in-3-SAT",
     "speaker": "Standa \u017divn\u00fd",
@@ -754,7 +754,7 @@
   {
     "series": "MIT Algorithms & Complexity",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/445",
-    "location": "MIT 32-G575",
+    "location": "MIT 32-D463",
     "url": "https://www.csail.mit.edu/event/distribution-learning-advice-arnab-bhattacharyya",
     "title": "Distribution Learning with Advice by Arnab Bhattacharyya",
     "date": "2025-09-19",
@@ -772,7 +772,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/explicit-lossless-vertex-expanders",
     "title": "Explicit Lossless Vertex Expanders",
     "speaker": "Rachel Zhang",
@@ -860,7 +860,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/beck-fiala-and-komlos-conjectures",
     "title": "On Beck-Fiala and Koml\u00f3s Conjectures",
     "speaker": "Nikhil Bansal",
@@ -901,7 +901,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/introducing-algorithmic-thinking-theory-foundation-models",
     "title": "Introducing Algorithmic Thinking Theory for Foundation Models",
     "speaker": "Vincent Cohen-Addad",
@@ -1012,7 +1012,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/redundancy-all-you-need-csp-sparsification",
     "title": "Redundancy is all you need (for CSP sparsification)",
     "speaker": "Venkat Guruswami",
@@ -1189,7 +1189,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/can-we-speed-safely",
     "title": "Can we speed safely?",
     "speaker": "Ronitt Rubinfeld",
@@ -1219,7 +1219,7 @@
   {
     "series": "MIT Theory of Computation",
     "series_url": "https://www.csail.mit.edu/taxonomy/term/443",
-    "location": "TBD",
+    "location": "MIT 32-G449",
     "url": "https://www.csail.mit.edu/event/tba",
     "title": "TBA",
     "speaker": "Shachar Lovett",
