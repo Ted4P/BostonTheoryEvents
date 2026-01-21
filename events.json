@@ -1213,8 +1213,9 @@
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2026-01-26",
     "time": "12:30",
-    "title": "Theory Seminar TBD",
-    "speaker": ""
+    "title": "Faster Estimation of Average Degree of a Graph using Random Edges and Structural Queries",
+    "speaker": "Deeparnab Chakrabarty, Dartmouth",
+    "location": "BU CDS 1001"
   },
   {
     "series": "MIT Theory of Computation",

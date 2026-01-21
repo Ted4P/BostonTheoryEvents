@@ -309,19 +309,19 @@
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-09-08",
-    "time": "11:30",
-    "title": "Composition Theorems for Differential Privacy under Continual Observation",
-    "speaker": "Monika Henzinger, ISTA",
-    "location": "BU CDS 1001"
+    "time": "14:00",
+    "title": "Monika Henzinger Student Meetings",
+    "speaker": "",
+    "location": "BU CDS 10 Purple Lounge"
   },
   {
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2025-09-08",
-    "time": "14:00",
-    "title": "Monika Henzinger Student Meetings",
-    "speaker": "",
-    "location": "BU CDS 10 Purple Lounge"
+    "time": "11:30",
+    "title": "Composition Theorems for Differential Privacy under Continual Observation",
+    "speaker": "Monika Henzinger, ISTA",
+    "location": "BU CDS 1001"
   },
   {
     "series": "BU Theory Seminar",
@@ -436,7 +436,8 @@
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2026-01-26",
     "time": "12:30",
-    "title": "Theory Seminar TBD",
-    "speaker": ""
+    "title": "Faster Estimation of Average Degree of a Graph using Random Edges and Structural Queries",
+    "speaker": "Deeparnab Chakrabarty, Dartmouth",
+    "location": "BU CDS 1001"
   }
 ]
