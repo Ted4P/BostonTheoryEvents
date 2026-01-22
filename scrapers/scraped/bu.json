@@ -435,9 +435,35 @@
     "series": "BU Theory Seminar",
     "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
     "date": "2026-01-26",
+    "time": "15:30",
+    "title": "Student Meeting with Deeparnab Chakrabarty",
+    "speaker": "Dartmouth",
+    "location": "BU CDS Floor 10 Purple Lounge"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2026-01-26",
     "time": "12:30",
     "title": "Faster Estimation of Average Degree of a Graph using Random Edges and Structural Queries",
     "speaker": "Deeparnab Chakrabarty, Dartmouth",
     "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2026-02-02",
+    "time": "12:30",
+    "title": "Local Node Differential Privacy",
+    "speaker": "Connor Wagaman, BU",
+    "location": "BU CDS 1001"
+  },
+  {
+    "series": "BU Theory Seminar",
+    "series_url": "https://www.bu.edu/cs/research-groups/theory/algorithms-and-theory-seminar/",
+    "date": "2026-02-09",
+    "time": "12:30",
+    "title": "TBD",
+    "speaker": ""
   }
 ]
